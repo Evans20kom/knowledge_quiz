@@ -16,9 +16,9 @@ A platform for automated quizes with a timer, score counter, correct/right answe
 
 ## Table of Contents (Optional)
 
-You can find the deployed application [here](https://evans20kom.github.io/password-manager/): https://evans20kom.github.io/password-manager/
+You can find the deployed application [here](https://evans20kom.github.io/knowledge_quiz/): https://evans20kom.github.io/knowledge_quiz/
 
-You can find the github repo [here](https://github.com/Evans20kom/password-manager): https://github.com/Evans20kom/password-manager
+You can find the github repo [here](https://github.com/Evans20kom/knowledge_quiz): https://github.com/Evans20kom/knowledge_quiz
 
 
 ## Installation
@@ -29,7 +29,7 @@ N/A
 
 #EDIT BEFORE SUBMISSION
 
-When you open the deployed application [here](https://evans20kom.github.io/password-manager/), a page with prompts will appear that you can manipulate to generate a random password:
+When you open the deployed application [here](https://evans20kom.github.io/knowledge_quiz/), a page with prompts will appear that you can manipulate to generate a random password:
     
 <img src="img/Instructions1.png" alt="Open application on Browser">
 
